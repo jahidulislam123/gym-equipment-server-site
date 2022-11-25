@@ -30,6 +30,7 @@ async function run(){
 run().catch(console.dir);
 
 // yes i will do some
+// some thing is wrong 
 
 
 app.get('/', (req, res) => {
